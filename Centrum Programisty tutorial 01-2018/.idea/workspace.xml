@@ -12,11 +12,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Stringi.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Stringi.kt">
+      <file leaf-file-name="ArrayList.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ArrayList.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+            <state relative-caret-position="158">
+              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMapa.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/HashMapa.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FuntionsOfKotlin.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FuntionsOfKotlin.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -36,6 +54,10 @@
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/demoszka.kt" />
         <option value="$PROJECT_DIR$/src/Stringi.kt" />
+        <option value="$PROJECT_DIR$/src/Arrays.kt" />
+        <option value="$PROJECT_DIR$/src/ArrayList.kt" />
+        <option value="$PROJECT_DIR$/src/HashMapa.kt" />
+        <option value="$PROJECT_DIR$/src/FuntionsOfKotlin.kt" />
       </list>
     </option>
   </component>
@@ -87,45 +109,45 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.StringiKt">
-    <configuration name="DemoszkaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.FuntionsOfKotlinKt">
+    <configuration name="ArrayListKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Centrum Programisty tutorial 01-2018" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DemoszkaKt" />
+      <option name="MAIN_CLASS_NAME" value="ArrayListKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="DoWhileKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ArraysKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Centrum Programisty tutorial 01-2018" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="DoWhileKt" />
+      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="IncrementationAndDecrementationKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="FuntionsOfKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Centrum Programisty tutorial 01-2018" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="IncrementationAndDecrementationKt" />
+      <option name="MAIN_CLASS_NAME" value="FuntionsOfKotlinKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="NestedForKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="HashMapaKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Centrum Programisty tutorial 01-2018" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="NestedForKt" />
+      <option name="MAIN_CLASS_NAME" value="HashMapaKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="StringiKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -139,19 +161,19 @@
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.DemoszkaKt" />
-      <item itemvalue="Kotlin.DoWhileKt" />
-      <item itemvalue="Kotlin.IncrementationAndDecrementationKt" />
-      <item itemvalue="Kotlin.NestedForKt" />
       <item itemvalue="Kotlin.StringiKt" />
+      <item itemvalue="Kotlin.ArraysKt" />
+      <item itemvalue="Kotlin.ArrayListKt" />
+      <item itemvalue="Kotlin.HashMapaKt" />
+      <item itemvalue="Kotlin.FuntionsOfKotlinKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FuntionsOfKotlinKt" />
+        <item itemvalue="Kotlin.HashMapaKt" />
+        <item itemvalue="Kotlin.ArrayListKt" />
+        <item itemvalue="Kotlin.ArraysKt" />
         <item itemvalue="Kotlin.StringiKt" />
-        <item itemvalue="Kotlin.NestedForKt" />
-        <item itemvalue="Kotlin.IncrementationAndDecrementationKt" />
-        <item itemvalue="Kotlin.DoWhileKt" />
-        <item itemvalue="Kotlin.DemoszkaKt" />
       </list>
     </recent_temporary>
   </component>
@@ -288,10 +310,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stringi.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        <state relative-caret-position="170">
+          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayList.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMapa.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FuntionsOfKotlin.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
         </state>
       </provider>
     </entry>
