@@ -12,83 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayList.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArrayList.kt">
+      <file leaf-file-name="main.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/simpleclass/main.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMapa.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/HashMapa.kt">
+      <file leaf-file-name="Car.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/simpleclass/Car.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FuntionsOfKotlin.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FuntionsOfKotlin.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Functions.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Functions.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FunctionOverload.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FunctionOverload.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Polymorphism.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Polymorphism.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Scope.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Scope.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Object.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Object.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Unit.kt" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/lib/kotlin-stdlib-sources.jar!/kotlin/Unit.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="21" column="14" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+            <state relative-caret-position="300">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
@@ -117,6 +54,8 @@
         <option value="$PROJECT_DIR$/src/Polymorphism.kt" />
         <option value="$PROJECT_DIR$/src/Scope.kt" />
         <option value="$PROJECT_DIR$/src/Object.kt" />
+        <option value="$PROJECT_DIR$/src/simpleclass/main.kt" />
+        <option value="$PROJECT_DIR$/src/simpleclass/Car.kt" />
       </list>
     </option>
   </component>
@@ -145,6 +84,12 @@
               <item name="Centrum Programisty tutorial 01-2018" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Centrum Programisty tutorial 01-2018" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Centrum Programisty tutorial 01-2018" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="simpleclass" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -168,7 +113,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.ScopeKt">
+  <component name="RunManager" selected="Kotlin.simpleclass.MainKt">
     <configuration name="FunctionOverloadKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Centrum Programisty tutorial 01-2018" />
       <option name="VM_PARAMETERS" />
@@ -187,16 +132,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
-      <option name="WORKING_DIRECTORY" />
-    </configuration>
-    <configuration name="FuntionsOfKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="Centrum Programisty tutorial 01-2018" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FuntionsOfKotlinKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="PolymorphismKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -219,20 +154,30 @@
       <option name="MAIN_CLASS_NAME" value="ScopeKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
+    <configuration name="simpleclass.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Centrum Programisty tutorial 01-2018" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="simpleclass.MainKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <list>
-      <item itemvalue="Kotlin.FuntionsOfKotlinKt" />
       <item itemvalue="Kotlin.FunctionsKt" />
       <item itemvalue="Kotlin.FunctionOverloadKt" />
       <item itemvalue="Kotlin.PolymorphismKt" />
       <item itemvalue="Kotlin.ScopeKt" />
+      <item itemvalue="Kotlin.simpleclass.MainKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.simpleclass.MainKt" />
         <item itemvalue="Kotlin.ScopeKt" />
         <item itemvalue="Kotlin.PolymorphismKt" />
         <item itemvalue="Kotlin.FunctionOverloadKt" />
         <item itemvalue="Kotlin.FunctionsKt" />
-        <item itemvalue="Kotlin.FuntionsOfKotlinKt" />
       </list>
     </recent_temporary>
   </component>
@@ -262,11 +207,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31160572" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31160572" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2591508" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2591508" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -390,13 +335,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arrays.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Stringi.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -460,10 +398,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arrays.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-start-column="2" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Object.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state>
+          <caret selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleclass/main.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/simpleclass/Car.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
