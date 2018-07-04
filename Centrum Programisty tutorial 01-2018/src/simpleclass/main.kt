@@ -12,7 +12,8 @@ fun main(args: Array<String>){
     var MERCEDES = Car("Mercedes", "Execute", "Bill Gates", 125000)
     println(MERCEDES.Model)
 
-    var person = Person("Michał", "Kichał")
+    var person = Person("Michał", "Kichał", 14)
+    println(person.firstName + " " + person.secondName + " " + person.age)
 
 
 }
