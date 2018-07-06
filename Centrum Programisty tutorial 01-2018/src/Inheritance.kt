@@ -4,7 +4,7 @@ open class Operations {
         return a + b
     }
 
-    fun div(a: Int, b: Int): Int {
+    open fun div(a: Int, b: Int): Int {
         return a / b
     }
 }
@@ -15,7 +15,11 @@ class MultiOperations:Operations(){
         return a + b * 3
     }
 
-    fun sub(a:Int, b:Int):Int{
+    override fun div(a:Int, b:Int):Int{
+        return a/b + 3
+    }
+
+     fun sub(a:Int, b:Int):Int{
         return a-b
     }
 
@@ -27,11 +31,8 @@ class MultiOperations:Operations(){
     }
 }
 fun main(args: Array<String>){
- var multiOperations = MultiOperations()
+ var multiOperations = MultiOperations() as Operations
     println(multiOperations.div(9,3))
     println(multiOperations.sum(3,3))
-    println(multiOperations.sub(5,3))
-    println(multiOperations.mul(3,3))
-    println(multiOperations.getName())
     println(multiOperations.sum(3,4))
 }
