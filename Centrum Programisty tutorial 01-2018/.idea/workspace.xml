@@ -12,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="MyEnum.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyEnum.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MyEnum.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyGeneric.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyGeneric.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -58,6 +67,7 @@
         <option value="$PROJECT_DIR$/src/Myinterface.kt" />
         <option value="$PROJECT_DIR$/src/MyAbstract.kt" />
         <option value="$PROJECT_DIR$/src/MyEnum.kt" />
+        <option value="$PROJECT_DIR$/src/MyGeneric.kt" />
       </list>
     </option>
   </component>
@@ -109,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.MyEnumKt">
+  <component name="RunManager" selected="Kotlin.MyGenericKt">
     <configuration name="InheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Centrum Programisty tutorial 01-2018" />
       <option name="VM_PARAMETERS" />
@@ -140,14 +150,14 @@
       <option name="MAIN_CLASS_NAME" value="MyEnumKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="ScopeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MyGenericKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Centrum Programisty tutorial 01-2018" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ScopeKt" />
+      <option name="MAIN_CLASS_NAME" value="MyGenericKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="simpleclass.MainKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -161,19 +171,19 @@
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.ScopeKt" />
       <item itemvalue="Kotlin.simpleclass.MainKt" />
       <item itemvalue="Kotlin.InheritanceKt" />
       <item itemvalue="Kotlin.MyAbstractKt" />
       <item itemvalue="Kotlin.MyEnumKt" />
+      <item itemvalue="Kotlin.MyGenericKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MyGenericKt" />
         <item itemvalue="Kotlin.MyEnumKt" />
         <item itemvalue="Kotlin.MyAbstractKt" />
         <item itemvalue="Kotlin.InheritanceKt" />
         <item itemvalue="Kotlin.simpleclass.MainKt" />
-        <item itemvalue="Kotlin.ScopeKt" />
       </list>
     </recent_temporary>
   </component>
@@ -203,11 +213,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31160572" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31160572" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2591508" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2591508" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -478,6 +488,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyGeneric.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
