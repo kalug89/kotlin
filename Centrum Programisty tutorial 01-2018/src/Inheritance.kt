@@ -1,4 +1,5 @@
 open class Operations {
+    var time:Int = 24
     protected var name:String = "Name"
     open fun sum(a: Int, b: Int): Int {
         return a + b
@@ -9,7 +10,12 @@ open class Operations {
     }
 }
 
-class MultiOperations:Operations(){
+class MultiOperations:Operations{
+
+    constructor(){
+        super.time
+        super.sum(2,2)
+    }
 
     override fun sum(a: Int, b: Int): Int {
         return a + b * 3
