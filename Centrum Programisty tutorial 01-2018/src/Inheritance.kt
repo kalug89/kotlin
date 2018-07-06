@@ -1,0 +1,37 @@
+open class Operations {
+    protected var name:String = "Name"
+    open fun sum(a: Int, b: Int): Int {
+        return a + b
+    }
+
+    fun div(a: Int, b: Int): Int {
+        return a / b
+    }
+}
+
+class MultiOperations:Operations(){
+
+    override fun sum(a: Int, b: Int): Int {
+        return a + b * 3
+    }
+
+    fun sub(a:Int, b:Int):Int{
+        return a-b
+    }
+
+    fun mul(a:Int, b:Int):Int{
+        return a * b
+    }
+    fun getName(){
+        super.name
+    }
+}
+fun main(args: Array<String>){
+ var multiOperations = MultiOperations()
+    println(multiOperations.div(9,3))
+    println(multiOperations.sum(3,3))
+    println(multiOperations.sub(5,3))
+    println(multiOperations.mul(3,3))
+    println(multiOperations.getName())
+    println(multiOperations.sum(3,4))
+}
