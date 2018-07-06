@@ -12,20 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Myinterface.kt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Myinterface.kt">
+      <file leaf-file-name="MyEnum.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MyEnum.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyAbstract.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/MyAbstract.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="102">
+              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -66,6 +57,7 @@
         <option value="$PROJECT_DIR$/src/Interface.kt" />
         <option value="$PROJECT_DIR$/src/Myinterface.kt" />
         <option value="$PROJECT_DIR$/src/MyAbstract.kt" />
+        <option value="$PROJECT_DIR$/src/MyEnum.kt" />
       </list>
     </option>
   </component>
@@ -117,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.MyAbstractKt">
+  <component name="RunManager" selected="Kotlin.MyEnumKt">
     <configuration name="InheritanceKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Centrum Programisty tutorial 01-2018" />
       <option name="VM_PARAMETERS" />
@@ -138,14 +130,14 @@
       <option name="MAIN_CLASS_NAME" value="MyAbstractKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
-    <configuration name="PolymorphismKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="MyEnumKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Centrum Programisty tutorial 01-2018" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="PolymorphismKt" />
+      <option name="MAIN_CLASS_NAME" value="MyEnumKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="ScopeKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -169,19 +161,19 @@
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <list>
-      <item itemvalue="Kotlin.PolymorphismKt" />
       <item itemvalue="Kotlin.ScopeKt" />
       <item itemvalue="Kotlin.simpleclass.MainKt" />
       <item itemvalue="Kotlin.InheritanceKt" />
       <item itemvalue="Kotlin.MyAbstractKt" />
+      <item itemvalue="Kotlin.MyEnumKt" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MyEnumKt" />
         <item itemvalue="Kotlin.MyAbstractKt" />
         <item itemvalue="Kotlin.InheritanceKt" />
         <item itemvalue="Kotlin.simpleclass.MainKt" />
         <item itemvalue="Kotlin.ScopeKt" />
-        <item itemvalue="Kotlin.PolymorphismKt" />
       </list>
     </recent_temporary>
   </component>
@@ -477,8 +469,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MyAbstract.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="102">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyEnum.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
         </state>
       </provider>
     </entry>
