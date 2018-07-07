@@ -1,12 +1,12 @@
 class Singleton{
     var name:String? = null
 
-
-     private constructor(){
+    private constructor(){
     println("Created constructor")
      }
-         companion object{
-            val instance:Singleton by lazy {Singleton ()}
+
+    companion object{
+        val instance:Singleton by lazy {Singleton ()}
      }
 }
 
