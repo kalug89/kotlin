@@ -13,5 +13,5 @@ fun main(args: Array<String>) {
         else -> println("I don't know that mode")
     }
 
-    
+
 }
