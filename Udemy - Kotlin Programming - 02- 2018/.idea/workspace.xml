@@ -12,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Conditionals.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Conditionals/Conditionals.kt">
+      <file leaf-file-name="Conditionals if.kt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Conditionals/Conditionals if.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Conditional when.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Conditionals/Conditional when.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -36,6 +45,7 @@
         <option value="$PROJECT_DIR$/src/HelloWorld.kt" />
         <option value="$PROJECT_DIR$/src/Conditionals.kt" />
         <option value="$PROJECT_DIR$/src/Conditionals/Conditionals.kt" />
+        <option value="$PROJECT_DIR$/src/Conditionals/Conditional when.kt" />
       </list>
     </option>
   </component>
@@ -97,7 +107,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Kotlin.Conditionals.Conditional_whenKt">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -117,14 +127,24 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="Conditionals.ConditionalsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="Conditionals.Conditional_whenKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="Udemy - Kotlin Programming" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="Conditionals.ConditionalsKt" />
+      <option name="MAIN_CLASS_NAME" value="Conditionals.Conditional_whenKt" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration name="Conditionals.Conditionals_ifKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Udemy - Kotlin Programming" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Conditionals.Conditionals_ifKt" />
       <option name="WORKING_DIRECTORY" />
     </configuration>
     <configuration name="HelloWorldKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
@@ -161,11 +181,13 @@
     </configuration>
     <list>
       <item itemvalue="Kotlin.HelloWorldKt" />
-      <item itemvalue="Kotlin.Conditionals.ConditionalsKt" />
+      <item itemvalue="Kotlin.Conditionals.Conditionals_ifKt" />
+      <item itemvalue="Kotlin.Conditionals.Conditional_whenKt" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Conditionals.ConditionalsKt" />
+        <item itemvalue="Kotlin.Conditionals.Conditional_whenKt" />
+        <item itemvalue="Kotlin.Conditionals.Conditionals_ifKt" />
         <item itemvalue="Kotlin.HelloWorldKt" />
       </list>
     </recent_temporary>
@@ -235,10 +257,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Conditionals/Conditionals.kt">
+    <entry file="file://$PROJECT_DIR$/src/Conditionals/Conditionals if.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Conditionals/Conditional when.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
