@@ -7,3 +7,6 @@ Start learning programing in Kotlin
 <p>https://www.udemy.com/kotlin-course/</p>
 <p>67 lessons | 6:3h</p>
 
+Last lesson:
+013 Nullable Variables 2:43
+
