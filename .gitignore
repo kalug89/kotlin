@@ -32,7 +32,7 @@ captures/
 # Intellij
 *.iml
 **/*.tml
-.idea/
+**/*.tidea/
 
 # Keystore files
 *.jks
