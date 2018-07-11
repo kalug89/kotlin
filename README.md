@@ -8,5 +8,5 @@ Start learning programing in Kotlin
 <p>67 lessons | 6:3h</p>
 
 Last lesson:
-018 Conditional Expressions
+07 Lucky Loop - 027 Naming loops.mp4
 
