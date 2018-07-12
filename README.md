@@ -8,5 +8,5 @@ Start learning programing in Kotlin
 <p>67 lessons | 6:3h</p>
 
 Last lesson:
-07 Lucky Loop - 027 Naming loops.mp4
+10 Object-Oriented Programming -- Part I || 036 Constructors
 
