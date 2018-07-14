@@ -5,6 +5,7 @@ import java.util.*
 //No parameters, no return value
 fun helloWorld() {
     println("Hello world!")
+    val list = listOf(1,2,3)
 }
 
 // 1 parameter, no return value

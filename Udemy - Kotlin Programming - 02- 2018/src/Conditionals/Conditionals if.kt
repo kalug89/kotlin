@@ -1,4 +1,4 @@
-package Conditionals
+package conditionals
 
 fun main(args: Array<String>) {
     val age: Int = 29

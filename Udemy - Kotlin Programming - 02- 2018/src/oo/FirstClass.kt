@@ -1,9 +1,17 @@
 package oo
 
+import function.getCurrentDate
+import oo.Color.BLUE
+import java.math.BigInteger
+
 class Person(val name: String, var age: Int) {
 
     init {
         println("Object was created")
+        val bigInt = BigInteger("3")
+        val currentDate = getCurrentDate()
+
+        val blue = BLUE
     }
 
     fun speak() {

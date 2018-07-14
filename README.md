@@ -8,5 +8,4 @@ Start learning programing in Kotlin
 <p>67 lessons | 6:3h</p>
 
 Last lesson:
-10 Object-Oriented Programming -- Part I || 042 Interfaces.mp4
-
+11 Object-Oriented Programming -- Part II || 049 Imports.mp4

@@ -1,4 +1,4 @@
-package Conditionals
+package conditionals
 
 fun main(args: Array<String>) {
     val mode: Int = 5
