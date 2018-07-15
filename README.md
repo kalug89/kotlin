@@ -8,4 +8,4 @@ Start learning programing in Kotlin
 <p>67 lessons | 6:3h</p>
 
 Last lesson:
-11 Object-Oriented Programming -- Part II || 049 Imports.mp4
+12 Binary  Hexadecimal Numbers -- Part II || 052 Bitwise Operators.mp4
