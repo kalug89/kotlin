@@ -29,5 +29,8 @@ fun main(args: Array<String>) {
     println(countryToInhabitians.get("Germany"))
     println(countryToInhabitians.getOrDefault("France", 0))
 
-
+    namesToAges.entries.forEach{
+        it
+        println("{$it.key} is ${it.value} yearst old")
+    }
 }
